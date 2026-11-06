@@ -1,5 +1,4 @@
 # SMART EXPENSE TRACKER
-# A beginner-friendly Python mini project
 
 expenses = []
 
